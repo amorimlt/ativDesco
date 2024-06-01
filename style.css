@@ -1,0 +1,48 @@
+body {
+  font-family: 'Poppins', 'arial';
+  background-color:#F8C9D9;
+}
+
+.tituloPrincipal {
+  font-weight: 700;
+  font-size: 3rem;
+  text-align: center;
+  color: #d30000;
+  border-radius: 20px;
+  background: #f8b2c9;
+}
+
+.infoTipo1 {
+ color: rgb(136, 0, 113);
+}
+
+.infoTipo2 {
+  color: rgb(75, 130, 231);
+}
+
+.infoTipo3 {
+  color: rgb(24, 102, 34);
+}
+
+.imgs {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.img {
+  border-radius: 10px;
+  border: #f8b2c9 5px solid;
+  margin: 10px;
+}
+
+#footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #f8b2c9;
+  color: white;
+  text-align: center;
+}
